@@ -1,26 +1,23 @@
-[
-	# Bedroom
-	'https://www.youtube.com/watch?v=dMfZE6XWK1k',
-	# Bathroom
-	'https://www.youtube.com/watch?v=nkdUTE0Hv2Q',
-	# Office
-	'https://www.youtube.com/watch?v=KDyvDTaYA0U',
-	'https://www.youtube.com/watch?v=SHHjr7nVAtA',
-	# Kitchen
-	'https://www.youtube.com/watch?v=a8GFvhCFrpY',
-	# Indoor Cycling
-	'https://www.youtube.com/watch?v=N6RT3_97-DY',
-	'https://www.youtube.com/watch?v=MlhuMqAFafk',
-	# Indoor Soccer
-	'https://www.youtube.com/watch?v=WpEU0-oNtg0',
-	'https://www.youtube.com/watch?v=XllWEhR6rJM',
-	# Gym
-	'https://www.youtube.com/watch?v=9g-IIiNb4qQ',
-	# Gymnastics
-	'https://www.youtube.com/watch?v=SVhZjxWZDM4',
-	# Orchestra
-	'https://www.youtube.com/watch?v=TKM8i4_OVx8',
-	# House
-	'https://www.youtube.com/watch?v=O9ECLbfcYQU',
-	
-]
+# Bedroom
+https://www.youtube.com/watch?v=dMfZE6XWK1k
+# Bathroom
+https://www.youtube.com/watch?v=nkdUTE0Hv2Q
+# Office
+https://www.youtube.com/watch?v=KDyvDTaYA0U
+https://www.youtube.com/watch?v=SHHjr7nVAtA
+# Kitchen
+https://www.youtube.com/watch?v=a8GFvhCFrpY
+# Indoor Cycling
+https://www.youtube.com/watch?v=N6RT3_97-DY
+https://www.youtube.com/watch?v=MlhuMqAFafk
+# Indoor Soccer
+https://www.youtube.com/watch?v=WpEU0-oNtg0
+https://www.youtube.com/watch?v=XllWEhR6rJM
+# Gym
+https://www.youtube.com/watch?v=9g-IIiNb4qQ
+# Gymnastics
+https://www.youtube.com/watch?v=SVhZjxWZDM4
+# Orchestra
+https://www.youtube.com/watch?v=TKM8i4_OVx8
+# House
+https://www.youtube.com/watch?v=O9ECLbfcYQU
