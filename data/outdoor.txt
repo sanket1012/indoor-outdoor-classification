@@ -1,0 +1,20 @@
+[
+	# Landscapes
+	'https://www.youtube.com/watch?v=UmsXacLWccI',
+	'https://www.youtube.com/watch?v=oPWFPerrq0k',
+	# Skyscraper
+	'https://www.youtube.com/watch?v=nK5lp8Zag0U',
+	# Outdoor Recreation
+	'https://www.youtube.com/watch?v=SR6JUpvjLUk',
+	# Football
+	'https://www.youtube.com/watch?v=00aaosnj8Jk',
+	# Cricket
+	'https://www.youtube.com/watch?v=IAaKxjvXj5g',
+	# Scuba Diving
+	'https://www.youtube.com/watch?v=pQQb2FP1ewE',
+	# Mountain
+	'https://www.youtube.com/watch?v=m4b802o9EbA',
+	# Parrot AR.Drone
+	'https://www.youtube.com/watch?v=X7tRY1Vn9x4',
+	'https://www.youtube.com/watch?v=EVFmbTZbLXk'
+]
