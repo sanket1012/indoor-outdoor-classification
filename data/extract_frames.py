@@ -21,7 +21,7 @@ def frame_extract(input_path, video, output_path):
         "select='eq(pict_type,PICT_TYPE_I)'",'-vsync','vfr', imgFilenames]
     
     # create iframes
-    # subprocess.call(cmd)
+    subprocess.call(cmd)
     print('cmd')
     # Move the extracted iframes to a subfolder
     # imgPrefix is used as a subfolder name that stores iframe images
